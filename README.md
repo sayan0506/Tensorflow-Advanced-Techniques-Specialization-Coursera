@@ -7,3 +7,8 @@
 • Build off of existing standard layers to create custom layers for your models, customize a network layer with a lambda layer, understand the differences between them, learn what makes up a custom layer, and explore activation functions. 
 
 • Build off of existing models to add custom functionality, learn how to define your own custom class instead of using the Functional or Sequential APIs, build models that can be inherited from the TensorFlow Model class, and build a residual network (ResNet) through defining a custom model class. 
+
+
+## Future Study
+
+**Implementaton of different custom loss and GIF visualization of modified outputs during training.**
