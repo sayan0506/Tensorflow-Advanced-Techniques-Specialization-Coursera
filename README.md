@@ -1,14 +1,13 @@
-# Custom Models, Layers, and Loss Functions with TensorFlow
+# **Tensorflow Advanced Techniques Specialization Coursera**
 
-• Compare Functional and Sequential APIs, discover new models you can build with the Functional API, and build a model that produces multiple outputs including a Siamese network.
+## **Overview**
 
-• Build custom loss functions (including the contrastive loss function used in a Siamese network) in order to measure how well a model is doing and help your neural network learn from training data. 
+In this Specialization, you will gain practical knowledge of and hands-on training in advanced TensorFlow techniques such as style transfer, object detection, and generative machine learning.
 
-• Build off of existing standard layers to create custom layers for your models, customize a network layer with a lambda layer, understand the differences between them, learn what makes up a custom layer, and explore activation functions. 
+**Course 1:** Understand the underlying basis of the Functional API and build exotic non-sequential model types, custom loss functions, and layers. 
 
-• Build off of existing models to add custom functionality, learn how to define your own custom class instead of using the Functional or Sequential APIs, build models that can be inherited from the TensorFlow Model class, and build a residual network (ResNet) through defining a custom model class. 
+**Course 2:** Learn how optimization works and how to use GradientTape and Autograph. Optimize training in different environments with multiple processors and chip types.
 
+**Course 3:** Practice object detection, image segmentation, and visual interpretation of convolutions.
 
-## Future Study
-
-**Implementaton of different custom loss and GIF visualization of modified outputs during training.**
+**Course 4:** Explore generative deep learning and how AIs can create new content, from Style Transfer through Auto Encoding and VAEs to Generative Adversarial Networks.
